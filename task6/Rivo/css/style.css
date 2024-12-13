@@ -1,0 +1,104 @@
+body{
+    font-family: "Tinos", serif;
+}
+.bg-main{
+    background-color: #C2EFD4 !important;
+}
+.text-color{
+    color: #224F34 !important ;
+    border-color: #224F34 !important;
+    border-radius: 3px;
+}
+.text-light-color{
+    color: #267D49;
+}
+.bg-foot{
+    background-color: #224F34;
+}
+.bg-foot-text{
+    color: #C2EFD4;
+    text-decoration: none;
+}
+.bg-light-green {
+    background-color: #ccf3d4;
+  }
+  
+  .position-relative {
+    width: 70px;
+    height: 50px;
+  }
+  
+  
+  span {
+    width: 12px;
+    height: 12px;
+    box-shadow: 0 0 5px rgba(0, 255, 98, 0.6);
+  }
+.button-bg{
+    background-color: #224F34 !important;
+    border-radius: 3px;
+
+}
+.box-shadow{
+    box-shadow: none;
+}
+.link-underline-primary {
+    text-decoration: underline !important;
+    text-decoration-color:#224F34 !important ;; 
+}
+.countdown-container {
+    display: flex;
+    gap: 20px;
+    color: #224F34;
+}
+.countdown-box {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 100px;
+    background-color: white;
+}
+.countdown-number {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0;
+}
+.countdown-label {
+    font-size: 1em;
+    color: #224F34;
+    margin: 0;
+}
+.f-color{
+    color: #6F6F6F;
+}
+
+::placeholder {
+    color: white !important;
+    opacity: 1;
+}
+.btn-color{
+    background-color: #A3F3BE;
+    color: #267D49;
+    border-radius: 0px;
+    border-color: #A3F3BE;
+}
+.border-color{
+    border-color: #A3F3BE;
+
+
+}
+.allign{
+
+    align-items: center !important;
+
+}
+nav .icon{
+    background-color: #10FF70;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 7px;
+    right:40%;
+}
